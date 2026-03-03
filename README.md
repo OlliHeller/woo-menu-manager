@@ -1,11 +1,10 @@
 # WooCommerce Menu Manager
-[**⬇️ Download neueste Version (.zip)**](HIER_DEINEN_KOPIERTEN_LINK_EINFÜGEN)
 
+[![Download](https://img.shields.io)]https://github.com/OlliHeller/woo-menu-manager/releases/download/v1.0.0/wc-menu-manager-v1.0.0.zip
 
-<img src="https://img.shields.io" alt="GPL v2">
-<img src="https://img.shields.io" alt="WP Version">
-<img src="https://img.shields.io" alt="WC Version">
+![GPL v2](https://img.shields.io) ![WP Version](https://img.shields.io) ![WC Version](https://img.shields.io)
 
+---
 
 
 Reorganize the WooCommerce admin menu by moving Products, Payments, Analytics, and Marketing into the WooCommerce submenu – fully customizable and multilingual.
