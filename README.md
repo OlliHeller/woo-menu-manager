@@ -2,9 +2,10 @@
 [**⬇️ Download neueste Version (.zip)**](HIER_DEINEN_KOPIERTEN_LINK_EINFÜGEN)
 
 
-[![License: GPL v2](https://img.shields.io)](https://www.gnu.org)
-![WordPress Version](https://img.shields.io)
-![WooCommerce Version](https://img.shields.io)
+<img src="https://img.shields.io" alt="GPL v2">
+<img src="https://img.shields.io" alt="WP Version">
+<img src="https://img.shields.io" alt="WC Version">
+
 
 
 Reorganize the WooCommerce admin menu by moving Products, Payments, Analytics, and Marketing into the WooCommerce submenu – fully customizable and multilingual.
