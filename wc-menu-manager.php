@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce Menü Manager
  * Description: Verschiebt die WooCommerce Hauptmenüs (Produkte, Zahlungen, Statistiken, Marketing) in das WooCommerce-Untermenü, basierend auf wählbaren Einstellungen. Mehrsprachig.
- * Version: 1.0
+ * Version: 1.0.0
  * Author: Oliver Heller
  * License: GPL2
  * Text Domain: wc-menu-manager
@@ -202,3 +202,4 @@ class WC_Menu_Manager {
 }
 
 new WC_Menu_Manager();
+
